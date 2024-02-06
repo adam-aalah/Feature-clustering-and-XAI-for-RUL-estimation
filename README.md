@@ -12,7 +12,7 @@ Experimental results on the available NASA Commercial Modular Aero-Propulsion Sy
 
 # Citation
 
-If you use the data, code, or findings from this repository in your work, please cite our article as follows:
+If you use the code, or findings from this repository in your work, please cite our article as follows:
 
 @article{aerospace10050474,
 AUTHOR = {Youness, Genane and Aalah, Adam},
