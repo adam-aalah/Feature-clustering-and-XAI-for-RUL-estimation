@@ -12,6 +12,7 @@ Experimental results on the available NASA Commercial Modular Aero-Propulsion Sy
 
 # Citation
 
+`
 If you use the code, or findings from this repository in your work, please cite our article as follows:
 
 @article{aerospace10050474,
@@ -26,3 +27,4 @@ URL = {https://www.mdpi.com/2226-4310/10/5/474},
 ISSN = {2226-4310},
 DOI = {10.3390/aerospace10050474}
 }
+`
