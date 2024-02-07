@@ -15,7 +15,8 @@ Experimental results on the available NASA Commercial Modular Aero-Propulsion Sy
 
 If you use the code, or findings from this repository in your work, please cite our article as follows:
 
-`@article{aerospace10050474,
+`
+@article{aerospace10050474,
 AUTHOR = {Youness, Genane and Aalah, Adam},
 TITLE = {An Explainable Artificial Intelligence Approach for Remaining Useful Life Prediction},
 JOURNAL = {Aerospace},
@@ -25,5 +26,6 @@ NUMBER = {5},
 ARTICLE-NUMBER = {474},
 URL = {https://www.mdpi.com/2226-4310/10/5/474},
 ISSN = {2226-4310},
-DOI = {10.3390/aerospace10050474}}`
+DOI = {10.3390/aerospace10050474}}
+`
 
